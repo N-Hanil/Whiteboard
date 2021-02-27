@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: crimson;
+}
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+
+.paint-canvas{
+    border: 1px solid black;
+    display: block;
+    margin: 1em;
+}
+
+.colour-picker{
+    margin: 1em;
+}
